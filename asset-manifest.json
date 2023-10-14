@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ansh399kakkar.github.io/contacts/static/css/main.f09ba332.css",
+    "main.js": "/ansh399kakkar.github.io/contacts/static/js/main.1f314e8c.js",
+    "static/js/787.97270632.chunk.js": "/ansh399kakkar.github.io/contacts/static/js/787.97270632.chunk.js",
+    "static/media/d.jpg": "/ansh399kakkar.github.io/contacts/static/media/d.cfde94b0d2065e37232a.jpg",
+    "index.html": "/ansh399kakkar.github.io/contacts/index.html",
+    "main.f09ba332.css.map": "/ansh399kakkar.github.io/contacts/static/css/main.f09ba332.css.map",
+    "main.1f314e8c.js.map": "/ansh399kakkar.github.io/contacts/static/js/main.1f314e8c.js.map",
+    "787.97270632.chunk.js.map": "/ansh399kakkar.github.io/contacts/static/js/787.97270632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09ba332.css",
+    "static/js/main.1f314e8c.js"
+  ]
+}
